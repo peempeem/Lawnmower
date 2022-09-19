@@ -6,4 +6,6 @@ Code for the robot and deployment of gnet on a Jetson Nano using TRT can be foun
 
 Code for communicating with the robot using a graphical interface can be found in src/app.
 
-![Alt text](images/lawnmower_old?raw=true "Title")
+
+Old Version using Jetson TX2:
+![Alt text](images/lawnmower_old.png?raw=true "Title")
